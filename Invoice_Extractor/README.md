@@ -1,4 +1,4 @@
-# Gemini AI Chatbot Project
+# Gemini AI Invoice extractor Project
 
 This project is dedicated to building a QA Chatbot using a virtual environment setup. The chatbot is designed to handle questions and answers in a specified domain using AI models.
 
